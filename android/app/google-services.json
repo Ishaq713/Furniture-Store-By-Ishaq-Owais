@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46170206413",
+    "project_id": "test-69d0a",
+    "storage_bucket": "test-69d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46170206413:android:54ce4d5bd1d2ba5047f984",
+        "android_client_info": {
+          "package_name": "com.alzheimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46170206413-e5npgr0pjnsfdm7l131kv21p8t0u08b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alzheimer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "46170206413-glu7j5oc0scodpuuqmkg7hloq5ullojv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkEhmDRfEfxgHBYQrTmB-VXjaDD7I0S_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46170206413-glu7j5oc0scodpuuqmkg7hloq5ullojv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
